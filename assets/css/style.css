@@ -1,0 +1,125 @@
+
+
+body {font-family: Arial, Helvetica, sans-serif;
+    background-color: lavender
+}
+
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+#fotoprincipal{
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+
+
+}
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+  }
+  
+  .header a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  .header-right {
+      float: right;
+  }
+  .container1 {
+      background-color: #f2f2f2;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-bottom: 10px;
+      padding: 0px 0px 20px 0px;
+
+  }
+  
+  .parrafo{
+      margin-left: 20px;
+  }
+  
+  .logo {
+      font-size: 90px;
+  }
+  .container2 {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 90px;
+    margin-right: 90px;
+  }
+  #pres {
+      height: 19%;
+      width: 19%;
+      float: left;
+      margin-left: 50px;
+      margin-right: 50px;  
+  }
+  .image {
+      position: relative;
+
+  
+
+  }
+  #keila {
+      height: 100%;
+      width: 30%;
+      margin-left: 50px;
+      float: left;
+      margin-right: 50px;
+
+  }
+
+  #tigres {
+      height: 40%;
+      width: 20%;
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+  #carne {
+      height: 40%;
+      width: 20%;
+      margin-left: 50px;
+      margin-right: 50px;
+  }
+* {box-sizing: border-box}
